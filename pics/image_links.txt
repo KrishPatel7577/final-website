@@ -1,0 +1,93 @@
+PRODUCT IMAGE SOURCES AND LINKS
+================================
+
+LAPTOPS (Product IDs 1-10)
+---------------------------
+ID 1 - Gaming Laptop Pro: /pics/images/id-1.jpg 
+ID 2 - Ultrabook 14": /pics/images/id-2.avif
+ID 3 - Gaming Laptop Elite: /pics/images/id-3.webp
+ID 4 - Business Laptop 15": /pics/images/id-4.webp
+ID 5 - Budget Laptop: /pics/images/id-5.webp
+ID 6 - Workstation Laptop: /pics/images/id-6.jpg
+ID 7 - 2-in-1 Convertible: /pics/images/id-7.webp
+ID 8 - Gaming Laptop Budget: /pics/images/id-8.jpg
+ID 9 - MacBook Pro Alternative: /pics/images/id-9.jpg
+ID 10 - Chromebook 14": /pics/images/id-10.jpg
+
+DESKTOPS (Product IDs 11-20)
+-----------------------------
+ID 11 - Business Desktop: /pics/images/id-11.avif
+ID 12 - Workstation Desktop: /pics/images/id-12.jpg
+ID 13 - Gaming Desktop Pro: /pics/images/id-13.jpg
+ID 14 - Budget Desktop: /pics/images/id-14.jpg
+ID 15 - Gaming Desktop Elite: /pics/images/id-15.jpg
+ID 16 - Mini PC: /pics/images/id-16.jpg
+ID 17 - All-in-One PC 24": /pics/images/id-17.jpg
+ID 18 - Home Office Desktop: /pics/images/id-18.jpg
+ID 19 - Gaming Desktop Mid-Range: /pics/images/id-19.jpg
+ID 20 - Server Desktop: /pics/images/id-20.jpg
+
+GRAPHIC CARDS (Product IDs 21-32)
+----------------------------------
+ID 21 - RTX 4090: /pics/images/id-21.jpg
+ID 22 - RTX 4060: /pics/images/id-22.jpg
+ID 23 - RTX 4080: /pics/images/id-23.jpg
+ID 24 - RTX 4070: /pics/images/id-24.jpg
+ID 25 - RTX 4070 Ti: /pics/images/id-25.jpg
+ID 26 - RTX 3060: /pics/images/id-26.jpg
+ID 27 - RX 7900 XTX: /pics/images/id-27.jpg
+ID 28 - RX 7800 XT: /pics/images/id-28.jpg
+ID 29 - RX 7700 XT: /pics/images/id-29.jpg
+ID 30 - RTX 3050: /pics/images/id-30.jpg
+ID 31 - RX 7600: /pics/images/id-31.jpg
+ID 32 - RTX 3090: /pics/images/id-32.jpg
+
+MEMORIES (Product IDs 33-42)
+-----------------------------
+ID 33 - DDR5 32GB RAM Kit: /pics/images/id-33.jpg
+ID 34 - DDR4 16GB RAM Kit: /pics/images/id-34.jpg
+ID 35 - DDR5 64GB RAM Kit: /pics/images/id-35.jpg
+ID 36 - DDR5 16GB RAM Kit: /pics/images/id-36.jpg
+ID 37 - DDR4 32GB RAM Kit: /pics/images/id-37.jpg
+ID 38 - DDR5 48GB RAM Kit: /pics/images/id-38.jpg
+ID 39 - DDR4 8GB RAM Stick: /pics/images/id-39.jpg
+ID 40 - DDR5 128GB RAM Kit: /pics/images/id-40.jpg
+ID 41 - DDR4 64GB RAM Kit: /pics/images/id-41.jpg
+ID 42 - DDR5 RGB 32GB Kit: /pics/images/id-42.jpg
+
+ACCESSORIES (Product IDs 43-66)
+--------------------------------
+ID 43 - Mechanical Keyboard: /pics/images/id-43.jpg
+ID 44 - Gaming Mouse: /pics/images/id-44.jpg
+ID 45 - Gaming Monitor 27": /pics/images/id-45.avif
+ID 46 - Wireless Keyboard: /pics/images/id-46.jpg
+ID 47 - Gaming Headset: /pics/images/id-47.jpg
+ID 48 - 4K Monitor 32": /pics/images/id-48.jpg
+ID 49 - Webcam 1080p: /pics/images/id-49.webp
+ID 50 - USB-C Hub: /pics/images/id-50.jpg
+ID 51 - External SSD 1TB: /pics/images/id-51.jpg
+ID 52 - Gaming Mouse Pad: /pics/images/id-52.jpg
+ID 53 - Wireless Mouse: /pics/images/id-53.avif
+ID 54 - USB Flash Drive 128GB: /pics/images/id-54.png
+ID 55 - Monitor Stand: /pics/images/id-55.jpg
+ID 56 - Laptop Stand: /pics/images/id-56.webp
+ID 57 - USB Microphone: /pics/images/id-57.jpg
+ID 58 - External HDD 2TB: /pics/images/id-58.jpg
+ID 59 - Gaming Chair: /pics/images/id-59.webp
+ID 60 - Desk Speakers: /pics/images/id-60.jpg
+ID 61 - Cable Management Kit: /pics/images/id-61.jpg
+ID 62 - Laptop Cooling Pad: /pics/images/id-62.jpg
+ID 63 - HDMI Cable 4K: /pics/images/id-63.jpg
+ID 64 - USB-C Cable: /pics/images/id-64.jpg
+ID 65 - Keyboard Wrist Rest: /pics/images/id-65.webp
+ID 66 - Surge Protector: /pics/images/id-66.png
+
+FALLBACK IMAGES BY CATEGORY
+----------------------------
+Laptops: https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&h=500&fit=crop&auto=format
+Desktops: https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&h=500&fit=crop&auto=format
+Graphic Cards: https://images.unsplash.com/photo-1591488320449-011701bb6704?w=500&h=500&fit=crop&auto=format
+Memories: https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=500&h=500&fit=crop&auto=format
+Accessories: https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop&auto=format
+
+
