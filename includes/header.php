@@ -29,7 +29,7 @@ $pathPrefix = $isAdminDir ? '../' : '';
                 <i class="bi bi-hexagon-half"></i> RAMSUNG
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+                <i class="bi bi-list" style="font-size: 2rem;"></i>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav me-auto">

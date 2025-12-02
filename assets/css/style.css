@@ -186,6 +186,19 @@ h6,
   color: var(--text-primary);
 }
 
+/* Navbar Toggler */
+.navbar-toggler {
+  border: none !important;
+  padding: 0.5rem !important;
+  color: var(--text-primary) !important;
+}
+
+.navbar-toggler:focus {
+  box-shadow: none !important;
+}
+
+
+
 /* Cards - Smaller & Cleaner */
 .card {
   background: var(--glass-bg);
