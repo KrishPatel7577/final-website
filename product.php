@@ -180,14 +180,14 @@ include 'includes/header.php';
     </div>
 </div>
 
-<!-- Fake Reviews Section -->
+<!-- Reviews Section -->
 <div class="row mt-5">
     <div class="col-12">
         <div class="card border-0 shadow-lg p-4">
             <h3 class="fw-bold mb-4"><i class="bi bi-star-fill text-warning me-2"></i>Customer Reviews</h3>
             
             <?php
-            // Generate fake reviews
+            // Generate reviews
             $fake_reviews = [
                 ['name' => 'Alex M.', 'rating' => 5, 'date' => '2 days ago', 'text' => 'Absolutely amazing product! Exceeded my expectations in every way. Highly recommended!'],
                 ['name' => 'Sarah J.', 'rating' => 4, 'date' => '1 week ago', 'text' => 'Great quality for the price. Shipping was fast too. Just wish it came in more colors.'],

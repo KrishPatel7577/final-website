@@ -217,7 +217,7 @@ include 'includes/header.php';
                     <h5 class="card-title text-truncate"><?php echo htmlspecialchars($product['name']); ?></h5>
                     <p class="card-text small flex-grow-1"><?php echo htmlspecialchars(substr($product['description'], 0, 60)) . '...'; ?></p>
                     <div class="d-flex align-items-center justify-content-between mt-3">
-                        <span class="fw-bold text-white h5 mb-0">$<?php echo number_format($product['price'], 2); ?></span>
+                        <span class="fw-bold text-primary h5 mb-0">$<?php echo number_format($product['price'], 2); ?></span>
                         <a href="product.php?id=<?php echo $product['id']; ?>" class="btn btn-sm btn-outline-primary rounded-pill px-3">
                             View
                         </a>

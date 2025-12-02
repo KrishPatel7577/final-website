@@ -1,4 +1,4 @@
-# Ramsung
+# Ramsung Computer Store
 
 ### User Features
 
@@ -24,33 +24,33 @@
 
 ## Features Implemented
 
-✅ User registration and login/logout  
-✅ Browse products by category  
-✅ Product search and filter  
-✅ View product details with **Customer Reviews & Ratings**  
-✅ Shopping cart functionality  
-✅ **Advanced Checkout** with Credit Card/PayPal/GPay simulation  
-✅ Order history  
-✅ **Dark/Light Mode** Theme Toggle  
-✅ Admin dashboard with **Glassmorphism Design**  
-✅ Product management (CRUD)  
-✅ Order management  
-✅ User management  
-✅ Responsive design (Bootstrap 5)  
-✅ Client-side and server-side validation  
-✅ Secure password storage  
-✅ SQL injection protection  
-✅ Session management
+- User registration and login/logout  
+- Browse products by category  
+- Product search and filter  
+- View product details with **Customer Reviews & Ratings**  
+- Shopping cart functionality  
+- **Advanced Checkout** with Credit Card/PayPal/GPay simulation  
+- Order history  
+- **Dark/Light Mode** Theme Toggle  
+- Admin dashboard with **Glassmorphism Design**  
+- Product management (CRUD)  
+- Order management  
+- User management  
+- Responsive design (Bootstrap 5)  
+- Client-side and server-side validation  
+- Secure password storage  
+- SQL injection protection  
+- Session management
 
 ## Other Features
 
-✅ Product search and filter  
-✅ Responsive admin dashboard with Gradients  
-✅ Inventory auto-update after orders  
-✅ Session-based login/cart state  
-✅ **Dynamic Product Reviews**  
-✅ **Theme Customization** (Dark/Light)  
-✅ **Payment Gateway Simulation**
+- Product search and filter  
+- Responsive admin dashboard with Gradients  
+- Inventory auto-update after orders  
+- Session-based login/cart state  
+- Dynamic Product Reviews  
+- Theme Customization (Dark/Light)  
+- Payment Gateway Simulation
 
 ## Technologies Used
 
@@ -193,7 +193,7 @@ final website/
 
 ## License
 
-This project is created for educational purposes.
+This project is created by us only for final term project.
 
 ## Author
 Krish Patel (5146558)
